@@ -18114,132 +18114,6 @@
 		)
 	)
 	(symbol
-		(lib_id "bloo-rescue:MountingHole-Mechanical-mouse_v2-rescue")
-		(at 233.807 239.649 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-00006089e032")
-		(property "Reference" "SK3"
-			(at 236.347 238.4806 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "M2"
-			(at 236.347 240.792 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
-			(at 233.807 239.649 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 233.807 239.649 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 233.807 239.649 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(instances
-			(project "bloo"
-				(path "/9031bb33-c6aa-4758-bf5c-3274ed3ebab7"
-					(reference "SK3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "bloo-rescue:MountingHole-Mechanical-mouse_v2-rescue")
-		(at 234.442 249.174 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-00006089e685")
-		(property "Reference" "SK4"
-			(at 236.982 248.0056 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "M2"
-			(at 236.982 250.317 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
-			(at 234.442 249.174 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 234.442 249.174 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 234.442 249.174 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(instances
-			(project "bloo"
-				(path "/9031bb33-c6aa-4758-bf5c-3274ed3ebab7"
-					(reference "SK4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 205.105 106.045 0)
 		(unit 1)
@@ -23372,6 +23246,69 @@
 	)
 	(symbol
 		(lib_id "bloo-rescue:MountingHole-Mechanical-mouse_v2-rescue")
+		(at 234.95 239.395 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "082d9012-2df9-4fa6-889f-b0d8f6bf5685")
+		(property "Reference" "SK3"
+			(at 237.49 238.2266 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "M2"
+			(at 237.49 240.538 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
+			(at 234.95 239.395 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 234.95 239.395 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 234.95 239.395 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "bloo"
+				(path "/9031bb33-c6aa-4758-bf5c-3274ed3ebab7"
+					(reference "SK3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "bloo-rescue:MountingHole-Mechanical-mouse_v2-rescue")
 		(at 180.975 249.428 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -24980,6 +24917,69 @@
 			(project "bloo"
 				(path "/9031bb33-c6aa-4758-bf5c-3274ed3ebab7"
 					(reference "#PWR0119")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "bloo-rescue:MountingHole-Mechanical-mouse_v2-rescue")
+		(at 234.95 248.92 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "93aeb1a3-8a19-457a-b423-fcddbcbf7f30")
+		(property "Reference" "SK4"
+			(at 237.49 247.7516 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "M2"
+			(at 237.49 250.063 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
+			(at 234.95 248.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 234.95 248.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 234.95 248.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "bloo"
+				(path "/9031bb33-c6aa-4758-bf5c-3274ed3ebab7"
+					(reference "SK4")
 					(unit 1)
 				)
 			)
