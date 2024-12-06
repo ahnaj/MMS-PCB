@@ -877,7 +877,7 @@
 		)
 		(fp_arc
 			(start 1.23 9.27)
-			(mid -0.277637 8.581642)
+			(mid -0.277636 8.581642)
 			(end -1 7.09)
 			(stroke
 				(width 0.05)
@@ -5819,7 +5819,7 @@
 		)
 		(fp_arc
 			(start 1.23 9.27)
-			(mid -0.277637 8.581642)
+			(mid -0.277636 8.581642)
 			(end -1 7.09)
 			(stroke
 				(width 0.05)
@@ -10661,10 +10661,10 @@
 			)
 		)
 		(pad "" np_thru_hole circle
-			(at 0 0)
+			(at -0.05 0.074)
 			(size 2.2 2.2)
 			(drill 2.2)
-			(layers "*.Cu" "*.Mask")
+			(layers "F&B.Cu" "*.Mask")
 			(uuid "e862d58e-f983-4dca-a58f-2cef0048314a")
 		)
 	)
@@ -13284,7 +13284,7 @@
 		(descr "Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C18"
-			(at 0 -1.85 -0)
+			(at 0 -1.85 0)
 			(layer "B.SilkS")
 			(uuid "2725d397-b291-465b-9d9c-e84f2ac3911a")
 			(effects
@@ -14756,10 +14756,10 @@
 			)
 		)
 		(pad "" np_thru_hole circle
-			(at 0 0)
+			(at 0 0.05)
 			(size 2.2 2.2)
 			(drill 2.2)
-			(layers "*.Cu" "*.Mask")
+			(layers "F&B.Cu" "*.Mask")
 			(uuid "815c1941-ed36-4651-99a6-19e9466eae6d")
 		)
 	)
