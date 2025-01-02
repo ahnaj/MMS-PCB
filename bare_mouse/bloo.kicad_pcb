@@ -31230,7 +31230,7 @@
 		(layer "Edge.Cuts")
 		(uuid "e318ad50-c743-4998-bc35-00bb00340902")
 	)
-	(gr_text "EZ Cheezy Team:"
+	(gr_text "EZ Cheez-Y Team:"
 		(at 210.566 117.602 0)
 		(layer "B.SilkS")
 		(uuid "34608684-f331-44b4-b90a-6c238fae81f4")
